@@ -1,0 +1,20 @@
+<package>
+  <description brief="fast_slam">
+
+     fast_slam
+
+  </description>
+  <author>Leone</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/fast_slam</url>
+  <depend package="std_msgs"/>
+  <depend package="rospy"/>
+  <depend package="roscpp"/>
+  <depend package="rosbag"/>
+  <depend package="message_filters"/>  
+  <depend package="tf"/>        
+
+</package>
+
+
